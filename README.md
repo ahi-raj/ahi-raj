@@ -1,6 +1,6 @@
 ### Hi there, I,m Ahitha Raj 👋
 
-![](https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Fclipart%2FrTLoBG8Ec.htm&psig=AOvVaw0rZu0NwJnJJFZ_ihSIBlgL&ust=1653662603377000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDM-ryz_fcCFQAAAAAdAAAAABAX)
+![](C:\Users\ahith\Downloads\gif1)
 
 
 - 🔭 Computer vision intern
