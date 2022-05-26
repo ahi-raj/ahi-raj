@@ -1,6 +1,6 @@
 ### Hi there, I,m Ahitha Raj 👋
 
-<p> ,img align+"right" alt="gif" src="https://github.com/ahi-raj/ahi-raj/blob/main/gif1.gif" width="500" height="320"/></p> 
+<p> <img align="right" alt="gif" src="https://github.com/ahi-raj/ahi-raj/blob/main/gif1.gif" width="500" height="320"/></p> 
 
 
 - 🔭 Computer vision intern
