@@ -1,6 +1,6 @@
 ### Hi there, I,m Ahitha Raj 👋
 
-![](C:\Users\ahith\Downloads\gif1)
+![](https://animesher.com/orig/1/154/1546/15464/animesher.com_manga-girl-desk-1546417.gif)
 
 
 - 🔭 Computer vision intern
