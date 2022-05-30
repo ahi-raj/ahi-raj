@@ -6,5 +6,4 @@
 - 🔭 Computer vision intern
 - 🌱 I’m currently pursuing final year master's in Artificial Intellingence
 - 👯 Interested areas: Machine Learning, Deep learning, Computer vision
-- 📫 You can reach me via [LinkedIn](http://www.linkedin.com/in/ahitha-raj)
-- ⚡ Fun fact: ...
+- 📫 You can reach me via [LinkedIn](http://www.linkedin.com/in/ahitha-raj
