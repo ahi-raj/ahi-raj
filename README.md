@@ -1,5 +1,5 @@
 <p align="center">
-   ### Hi there, I'm Ahitha Raj 👋
+   ## Hi there, I'm Ahitha Raj 👋
 </p>
 ### Hi there, I'm Ahitha Raj 👋
 
